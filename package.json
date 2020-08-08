@@ -1,0 +1,25 @@
+{
+  "name": "discordbotdersleri",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Serhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chance": "^1.1.6",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "math-expression-evaluator": "^1.2.22",
+    "moment": "^2.27.0",
+    "parse-ms": "^2.1.0",
+    "quick-db": "^1.0.5",
+    "request": "^2.88.2",
+    "wio.db": "^3.0.2"
+  }
+}
